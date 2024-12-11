@@ -1,0 +1,100 @@
+{
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "logout": "Logout",
+    "createAccount": "Create a New Account",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "navigation": {
+    "home": "Home",
+    "explore": "Explore",
+    "people": "People",
+    "saved": "Saved",
+    "create": "Create Post",
+    "profile": "Profile",
+    "settings": "Settings",
+    "sidebar": "Main Navigation"
+  },
+  "post": {
+    "create": "Create Post",
+    "edit": "Edit Post",
+    "caption": "Caption",
+    "dragPhoto": "Drag photo here",
+    "captionPlaceholder": "Write a caption...",
+    "location": "Add Location",
+    "locationPlaceholder": "Add location",
+    "tagsPlaceholder": "Add tags...",
+    "addTags": "Add Tags",
+    "tags": "Tags",
+    "addPhotos": "Add Photos",
+    "post": "Post",
+    "save": "Save Changes",
+    "delete": "Delete Post",
+    "comments": "Comments",
+    "likes": "Likes",
+    "share": "Share",
+    "createPost": "Create Post",
+    "editPost": "Edit Post",
+    "deletePost": "Delete Post",
+    "confirmDelete": "Are you sure you want to delete this post?",
+    "createError": "Failed to create post. Please try again.",
+    "updateError": "Failed to update post. Please try again."
+  },
+  "profile": {
+    "profileImage": "Profile Image",
+    "editProfile": "Edit Profile",
+    "followers": "Followers",
+    "following": "Following",
+    "posts": "Posts",
+    "stories": "Stories",
+    "saved": "Saved Posts",
+    "likedPosts": "Liked Posts",
+    "updateProfile": "Update Profile"
+  },
+  "pages": {
+    "home": "Home Feed",
+    "explore": "Explore",
+    "allUsers": "All Users",
+    "saved": "Saved Posts",
+    "createPost": "Create New Post",
+    "editPost": "Edit Post",
+    "profile": "Profile",
+    "search": "Search Results"
+  },
+  "common": {
+    "search": "Search",
+    "loading": "Loading...",
+    "noResults": "No Results Found",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "language": "Language",
+    "follow": "Follow",
+    "unfollow": "Unfollow",
+    "viewMore": "View More",
+    "viewLess": "View Less",
+    "post": "Post",
+    "update": "Update"
+  },
+  "postCard": {
+    "likes": "Likes",
+    "save": "Save post",
+    "caption": "Caption",
+    "location": "Location",
+    "tags": "Tags",
+    "addTags": "Add tags"
+  },
+  "postStats": {
+    "likes": "Likes",
+    "comments": "Comments",
+    "shares": "Shares"
+  },
+  "explore": {
+    "searchPosts": "Search Posts",
+    "popularToday": "Popular Today",
+    "endOfPosts": "End of posts",
+    "noResults": "No results found"
+  }
+}
